@@ -1,0 +1,18 @@
+# C/C++ build outputs
+*.o
+*.obj
+*.exe
+*.elf
+*.axf
+*.map
+
+# MATLAB generated files
+*.asv
+slprj/
+codegen/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
